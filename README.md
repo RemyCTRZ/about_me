@@ -127,5 +127,4 @@ Les 4 pages ont la même structure de base et doivent comporter, dans l'ordre :
 ## Authors
 
 [Nicolas Herbez](https://github.com/nicolas-herbez)
-
 [Rémy Cottrez](https://github.com/RemyCTRZ)
