@@ -5,7 +5,7 @@ Créer des pages HTML personnalisées, navigables via une liste de liens en resp
 ![Brief About_Me](./brief_about_me.jpg)
 
 
-# Contexte
+## Contexte
 
 Vous venez d'arriver dans un centre de formation et votre formateur vous a donné comme projet de créer un site pour que vous présentiez vos centres d'intérêts et votre personnalité.
 
@@ -18,7 +18,7 @@ Vous venez d'arriver dans un centre de formation et votre formateur vous a donn�
 - Votre code devra correspondre aux standards W3C (aucune erreur)
 
 
-# Modalités pédagogiques
+## Modalités pédagogiques
 
 **Activité individuelle en mode collaboratif.**
 
@@ -98,16 +98,16 @@ Les 4 pages ont la même structure de base et doivent comporter, dans l'ordre :
 ***Deadline : 4 jours***
 
 
-# Modalités d'évaluation
+## Modalités d'évaluation
 
 - Présentation du site devant les pairs
 
 
-# Livrables
+## Livrables
 
 - Le lien vers votre dépôt `GitHub` avec un dernier commit lorsque tout fonctionne "completed"
 
-# Critères de performances
+## Critères de performances
 
 - Plusieurs commits par jour
 - Conformité avec les standards W3C
@@ -115,7 +115,7 @@ Les 4 pages ont la même structure de base et doivent comporter, dans l'ordre :
 - Respect de la mise en forme des pages
 
 
-# Ressources
+## Ressources
 
 - [Créer sa première page HTML](https://www.codeur.com/tuto/html/comment-creer-page-html/#creer_son_premier_fichier_html)
 - [Lier un fichier CSS](https://developer.mozilla.org/fr/docs/Learn/CSS/First_steps/Getting_started)
@@ -123,7 +123,7 @@ Les 4 pages ont la même structure de base et doivent comporter, dans l'ordre :
 - [W3C](https://validator.w3.org/)
 
 
-# Authors
+## Authors
 
 [Nicolas Herbez](https://github.com/nicolas-herbez)
 [Rémy Cottrez](https://github.com/RemyCTRZ)
