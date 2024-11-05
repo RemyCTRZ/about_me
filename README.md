@@ -97,6 +97,7 @@ Les 4 pages ont la même structure de base et doivent comporter, dans l'ordre :
  
 ***Deadline : 4 jours***
 
+---
 
 ## Modalités d'évaluation
 
