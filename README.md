@@ -2,6 +2,8 @@
 
 Créer des pages HTML personnalisées, navigables via une liste de liens en respectant la structure attendue
 
+![Brief About_Me](./brief_about_me.jpg)
+
 
 # Contexte
 
