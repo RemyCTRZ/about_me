@@ -43,7 +43,8 @@ Les 4 pages ont la même structure de base et doivent comporter, dans l'ordre :
     1. "accueil" (index.html)
     2. "à propos de moi" (about-me.html)
     3. "mon projet professionnel" (my-job.html)
-    4. "mes passions" (my-passions.html) "mon cv" (associé à cv-fr.pdf et s'ouvre dans un nouvel onglet)
+    4. "mes passions" (my-passions.html)
+    5. "mon cv" (associé à cv-fr.pdf et s'ouvre dans un nouvel onglet)
 
 ### Section
     - le contenu correspondant à la section
