@@ -102,7 +102,7 @@ Les 4 pages ont la même structure de base et doivent comporter, dans l'ordre :
 
 ## Modalités d'évaluation
 
-- Présentation du site devant les pairs
+- Rendu sur Github
 
 
 ## Livrables
