@@ -125,7 +125,7 @@ Les 4 pages ont la même structure de base et doivent comporter, dans l'ordre :
 - [W3C](https://validator.w3.org/)
 
 
-## Authors
+## Auteurs
 
 - [Nicolas Herbez](https://github.com/nicolas-herbez)
 - [Rémy Cottrez](https://github.com/RemyCTRZ)
